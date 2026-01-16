@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background: #020617;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background: #22c55e;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #16a34a;
+}
+
+#walletAddress {
+  margin-top: 15px;
+  font-size: 14px;
+  word-break: break-all;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My First DApp</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>🚀 My First DApp</h1>
+
+    <button id="connectBtn">Connect Wallet</button>
+
+    <p id="walletAddress">Not connected</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
