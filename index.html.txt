@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>My First DApp</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <title>My First Website</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <div class="container">
-    <h1>🚀 My First DApp</h1>
+  <h1>My First Website</h1>
 
-    <button id="connectBtn">Connect Wallet</button>
+  <button id="connectBtn">Click Me</button>
 
-    <p id="walletAddress">Not connected</p>
-  </div>
+  <p id="walletAddress">Not connected</p>
 
   <script src="script.js"></script>
 </body>
 </html>
+
+
